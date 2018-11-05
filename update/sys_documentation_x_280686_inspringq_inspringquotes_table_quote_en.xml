@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="quote" label="Quote" language="en" table="x_280686_inspringq_inspringquotes_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>quote</element>
+            <help/>
+            <hint/>
+            <label>Quote</label>
+            <language>en</language>
+            <name>x_280686_inspringq_inspringquotes_table</name>
+            <plural>Quotes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-05 15:49:56</sys_created_on>
+            <sys_id>fc5ca15edbe1230088e4fbefbf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Quote</sys_name>
+            <sys_package display_value="InspringQuotes" source="x_280686_inspringq">c37b651edbe1230088e4fbefbf9619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InspringQuotes">c37b651edbe1230088e4fbefbf9619b4</sys_scope>
+            <sys_update_name>sys_documentation_x_280686_inspringq_inspringquotes_table_quote_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-05 15:49:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
